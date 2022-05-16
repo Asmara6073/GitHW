@@ -6,6 +6,8 @@ public class HW {
             System.out.println(i+" ");
         }
 
+        System.out.println("Please make code print 1-50 instead of 1-100");
+
 
     }
 
